@@ -1,0 +1,33 @@
+# Project exclude paths
+/a/target/
+/BloomFilter/target/
+/bountyhunter/target/
+/hadoop/target/
+/hk_blog/target/
+/hk_blog_2/target/
+/html_test/target/
+/jiumen/target/
+/rabbitmq _topic/target/
+/rabbitmq_direct/target/
+/rabbitmq_fanout/target/
+/shiro/target/
+/springboot _cache_redis/target/
+/springboot _shiro/target/
+/springboot_cache_redis_demo/target/
+/springboot_hadoop/target/
+/springboot_hotDeployment/target/
+/springboot_junit/target/
+/springboot_qqLogin/target/
+/springboot_Redis/target/
+/springboot_sendEmail/target/
+/springboot_SpringDataRedis_redis/target/
+/springboot_SpringSecurity/target/
+/springboot_SpringSecurity - 1/target/
+/springboot_thymeleaf_templates/target/
+/springboot_timedTask/target/
+/SpringCloud/eureka-server/target/
+/SpringCloud/product-data-server/target/
+/SpringCloud/product-view-service-feign/target/
+/SpringCloud/product-view-service-ribbon/target/
+/SpringCloud/target/
+/testSerialize/target/
